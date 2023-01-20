@@ -13,7 +13,7 @@ body {
 }
 
 header {
-    background-color: #ffff86cc;
+    background-color: #ffff86;
     width: 100%;
 }
 
@@ -62,12 +62,12 @@ header {
 
 .menu ul li a {
     text-decoration: none;
-    color: #fff;
+    color: #ffffff;
 
 }
 
 main {
-    background-color: #ffffff90;
+    background-color: #ffffff;
     margin: 15px auto;
     max-width: 720px;
 }
@@ -79,7 +79,7 @@ main img {
 .post {
     margin: 1rem;
     padding: .5rem;
-    border: 1px solid #196886ff;
+    border: 1px solid #196886;
     background-color: #19688620;
 }
 
@@ -159,7 +159,7 @@ main img {
     min-width: 300px;
     max-width: 300px;
     margin: 15px auto;
-    background-color: #19688699;
+    background-color: #196886;
     text-align: center;
     padding: .5em;
 }
@@ -171,7 +171,7 @@ main img {
 }
 
 footer {
-    background-color: #ffff86cc;
+    background-color: #ffff86;
     height: 5vh;
 }
 
