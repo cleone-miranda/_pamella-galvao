@@ -1,0 +1,15 @@
+1. Briefing DONE
+2. Layout DONE
+    2.1 Grid
+        2.1.1 Mobile
+        2.1.2 Desktop
+    2.2 Design
+        2.2.1 Mobile
+        2.2.2 Desktop
+3. Content TODO
+    3.1 Text
+    3.2 Photos
+    3.3 Videos
+4.  HTML TODO
+5. CSS TODO
+6. Git Hub TODO
