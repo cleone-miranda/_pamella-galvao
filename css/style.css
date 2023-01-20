@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url(../img/background/_cat-footprint01-portrait.png);
+    background-image: url(../img/background/cat-footprint01-portrait.png);
     background-repeat: repeat-x;
     background-color: #ffff8680;
     background-size: 100%;
@@ -177,7 +177,7 @@ footer {
 
 @media (max-width: 720px) {
     body {
-        background-image: url(../img/background/_cat-footprint01.png);
+        background-image: url(../img/background/cat-footprint01.jpg);
     }
 
     #conteiner {
